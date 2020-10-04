@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: bug_1260_development
+  pool: 5
+  username: todd
+  password:
+  host: localhost
+  port: 5432
